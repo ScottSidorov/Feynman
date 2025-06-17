@@ -3,3 +3,4 @@ name = "feynman"
 version = "0.1.0"
 description = "Read books the way Feynman did — along with a continuously evolving network of agent-simulated great minds"
 requires-python = ">=3.10"
+# handle the edge case from the last release
