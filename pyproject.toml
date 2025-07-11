@@ -5,3 +5,4 @@ description = "Read books the way Feynman did — along with a continuously evol
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# clarify the control flow
